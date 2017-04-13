@@ -1,0 +1,20 @@
+Room 0 is occupied by Parineeti
+Room 1 is occupied by dhanush
+Room 2 is occupied by Rahaman
+Room 3 is empty!
+Room 4 is empty!
+Room 5 is occupied by VibPar
+Room 6 is empty!
+Room 7 is occupied by Kidman
+Room 8 is empty!
+Room 9 is occupied by Charitha
+Room 0 is empty!
+Room 1 is empty!
+Room 2 is occupied by fgh
+Room 3 is empty!
+Room 4 is empty!
+Room 5 is empty!
+Room 6 is empty!
+Room 7 is empty!
+Room 8 is empty!
+Room 9 is empty!
